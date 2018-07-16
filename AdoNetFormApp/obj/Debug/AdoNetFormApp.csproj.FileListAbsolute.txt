@@ -1,0 +1,13 @@
+C:\Users\myuser\Desktop\C# lesson works\Ado.net\AdoNetFormApp\AdoNetFormApp\bin\Debug\Data\ProductDB.mdf
+C:\Users\myuser\Desktop\C# lesson works\Ado.net\AdoNetFormApp\AdoNetFormApp\bin\Debug\Data\ProductDB_log.ldf
+C:\Users\myuser\Desktop\C# lesson works\Ado.net\AdoNetFormApp\AdoNetFormApp\bin\Debug\AdoNetFormApp.exe.config
+C:\Users\myuser\Desktop\C# lesson works\Ado.net\AdoNetFormApp\AdoNetFormApp\bin\Debug\AdoNetFormApp.exe
+C:\Users\myuser\Desktop\C# lesson works\Ado.net\AdoNetFormApp\AdoNetFormApp\bin\Debug\AdoNetFormApp.pdb
+C:\Users\myuser\Desktop\C# lesson works\Ado.net\AdoNetFormApp\AdoNetFormApp\obj\Debug\AdoNetFormApp.csprojAssemblyReference.cache
+C:\Users\myuser\Desktop\C# lesson works\Ado.net\AdoNetFormApp\AdoNetFormApp\obj\Debug\AdoNetFormApp.Form1.resources
+C:\Users\myuser\Desktop\C# lesson works\Ado.net\AdoNetFormApp\AdoNetFormApp\obj\Debug\AdoNetFormApp.Properties.Resources.resources
+C:\Users\myuser\Desktop\C# lesson works\Ado.net\AdoNetFormApp\AdoNetFormApp\obj\Debug\AdoNetFormApp.csproj.GenerateResource.cache
+C:\Users\myuser\Desktop\C# lesson works\Ado.net\AdoNetFormApp\AdoNetFormApp\obj\Debug\AdoNetFormApp.csproj.CoreCompileInputs.cache
+C:\Users\myuser\Desktop\C# lesson works\Ado.net\AdoNetFormApp\AdoNetFormApp\obj\Debug\AdoNetFormApp.exe
+C:\Users\myuser\Desktop\C# lesson works\Ado.net\AdoNetFormApp\AdoNetFormApp\obj\Debug\AdoNetFormApp.pdb
+C:\Users\myuser\Desktop\C# lesson works\Ado.net\AdoNetFormApp\AdoNetFormApp\obj\Debug\AdoNetFormApp.SchoolManagment.resources
